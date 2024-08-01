@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-playground",
+  "private": true,
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "start": "nuxi preview"
+  },
+  "dependencies": {
+    "@unhead/shared": "latest",
+    "@vue/devtools-api": "latest",
+    "@vue/shared": "latest",
+    "nuxt": "workspace:*",
+    "unhead": "latest",
+    "vue": "latest"
+  }
+}
